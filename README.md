@@ -7,6 +7,7 @@ contents which i picked from the internet
 - [The Flow - Free tutorial to learn HTML and CSS](https://marksheet.io/css-the-flow.html) 
 - [MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS](https://marksheet.io/) 
 - [你未必知道的49个CSS知识点 - 掘金](https://juejin.im/post/5d3eca78e51d4561cb5dde12) 
+- [javascript-questions/README-zh_CN.md at master · lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions/blob/master/README-zh_CN.md) 
 ### July 30, 2019 
 - [Idnan/like-on-github: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-github) 
 - [掘金](https://juejin.im/timeline) 
