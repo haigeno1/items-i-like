@@ -4,6 +4,9 @@ contents which i picked from the internet
 
 
 
+
+### August 6, 2019 
+- [How SVG Line Animation Works | CSS-Tricks](https://css-tricks.com/svg-line-animation-works/) 
 ### August 5, 2019 
 - [花粥 演唱的 《纸短情长》声音好柔好好听 - AcFun弹幕视频网 - 认真你就输啦 (?ω?)ノ- ( ゜- ゜)つロ](https://www.acfun.cn/v/ac4390976) 
 ### August 2, 2019 
