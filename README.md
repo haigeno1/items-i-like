@@ -9,6 +9,7 @@ contents which i picked from the internet
 
 ### August 10, 2019 
 - [FallenMax/smart-toc: A Chrome extension for auto-generating a table of contents](https://github.com/FallenMax/smart-toc) 
+- [Source-Explain/README.zh.md at master · chinanf-boy/Source-Explain](https://github.com/chinanf-boy/Source-Explain/blob/master/README.zh.md#h5o-31) 
 ### August 9, 2019 
 - [75team/w3c: 360 W3C工作组](https://github.com/75team/w3c) 
 - [JS家的排序算法 - 简书](https://www.jianshu.com/p/1b4068ccd505) 
