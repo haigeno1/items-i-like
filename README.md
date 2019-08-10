@@ -12,6 +12,7 @@ contents which i picked from the internet
 - [Source-Explain/README.zh.md at master · chinanf-boy/Source-Explain](https://github.com/chinanf-boy/Source-Explain/blob/master/README.zh.md#h5o-31) 
 - [guanguans/design-patterns-for-humans-cn: 🎉 Design patterns for humans 中文版](https://github.com/guanguans/design-patterns-for-humans-cn) 
 - [babel-handbook/user-handbook.md at master · jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/user-handbook.md) 
+- [Sites · jekyll/jekyll Wiki](https://github.com/jekyll/jekyll/wiki/Sites) 
 ### August 9, 2019 
 - [75team/w3c: 360 W3C工作组](https://github.com/75team/w3c) 
 - [JS家的排序算法 - 简书](https://www.jianshu.com/p/1b4068ccd505) 
