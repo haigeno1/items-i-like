@@ -7,6 +7,9 @@ contents which i picked from the internet
 
 
 
+
+### August 12, 2019 
+- [sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript](https://github.com/sohamkamani/javascript-design-patterns-for-humans) 
 ### August 10, 2019 
 - [FallenMax/smart-toc: A Chrome extension for auto-generating a table of contents](https://github.com/FallenMax/smart-toc) 
 - [Source-Explain/README.zh.md at master · chinanf-boy/Source-Explain](https://github.com/chinanf-boy/Source-Explain/blob/master/README.zh.md#h5o-31) 
