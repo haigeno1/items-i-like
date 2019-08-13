@@ -12,6 +12,7 @@ contents which i picked from the internet
 ### August 13, 2019 
 - [BlameDeng/calculator: 用TS写的简易计算器](https://github.com/BlameDeng/calculator) 
 - [NigelOToole/direction-reveal: Direction aware content reveals via hover or tab on an element.](https://github.com/NigelOToole/direction-reveal) 
+- [learn-regex/README-cn.md at master · ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) 
 ### August 12, 2019 
 - [sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript](https://github.com/sohamkamani/javascript-design-patterns-for-humans) 
 ### August 10, 2019 
