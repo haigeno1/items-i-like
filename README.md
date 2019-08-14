@@ -13,6 +13,7 @@ contents which i picked from the internet
 ### August 14, 2019 
 - [hx-dl/weui_source_code: weui 源码分析](https://github.com/hx-dl/weui_source_code) 
 - [jolaleye/cssfx: ✨ Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx) 
+- [qgh810/dnd: drag and drop 基于原生js的拖放库 带vue组件 兼容移动端, 兼容ie](https://github.com/qgh810/dnd) 
 ### August 13, 2019 
 - [BlameDeng/calculator: 用TS写的简易计算器](https://github.com/BlameDeng/calculator) 
 - [NigelOToole/direction-reveal: Direction aware content reveals via hover or tab on an element.](https://github.com/NigelOToole/direction-reveal) 
