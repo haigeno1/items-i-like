@@ -16,6 +16,7 @@ contents which i picked from the internet
 - [git-flight-rules/README_zh-CN.md at master · k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md) 
 - [qgh810/dnd: drag and drop 基于原生js的拖放库 带vue组件 兼容移动端, 兼容ie](https://github.com/qgh810/dnd) 
 - [pomber/git-history: Quickly browse the history of a file from any git repository](https://github.com/pomber/git-history) 
+- [Docs - Licia: Useful Utility Collection with Zero Dependencies:)](https://licia.liriliri.io/docs_cn.html) 
 ### August 15, 2019 
 - [mqyqingfeng/Wheels: 以自己是否能造出轮子来衡量学习的效果](https://github.com/mqyqingfeng/Wheels) 
 - [mdn/web-components-examples: A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.](https://github.com/mdn/web-components-examples) 
