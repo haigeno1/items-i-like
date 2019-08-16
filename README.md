@@ -11,6 +11,9 @@ contents which i picked from the internet
 
 
 
+
+### August 16, 2019 
+- [git-flight-rules/README_zh-CN.md at master · k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md) 
 ### August 15, 2019 
 - [mqyqingfeng/Wheels: 以自己是否能造出轮子来衡量学习的效果](https://github.com/mqyqingfeng/Wheels) 
 - [mdn/web-components-examples: A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.](https://github.com/mdn/web-components-examples) 
