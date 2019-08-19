@@ -15,6 +15,7 @@ contents which i picked from the internet
 
 ### August 19, 2019 
 - [设计模式 | 心谭博客](https://xin-tan.com/passages/2018-10-23-singleton-pattern/#_1-%E4%BB%80%E4%B9%88%E6%98%AF%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%EF%BC%9F) 
+- [typescript-tutorial/README.md at master · xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial/blob/master/README.md) 
 ### August 16, 2019 
 - [git-flight-rules/README_zh-CN.md at master · k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md) 
 - [qgh810/dnd: drag and drop 基于原生js的拖放库 带vue组件 兼容移动端, 兼容ie](https://github.com/qgh810/dnd) 
