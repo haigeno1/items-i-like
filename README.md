@@ -20,6 +20,7 @@ contents which i picked from the internet
 - [Arman19941113/project-canvas: 预览链接](https://github.com/Arman19941113/project-canvas) 
 - [stonehank/rxjs-animate-react: 使用react框架动画展示Rxjs@v5.5.8](https://github.com/stonehank/rxjs-animate-react) 
 - [sourcecode-analysis/navigation.md at master · stonehank/sourcecode-analysis](https://github.com/stonehank/sourcecode-analysis/blob/master/navigation.md) 
+- [stonehank/simplify-anime: 对anime简化以便理解整个框架的执行方式](https://github.com/stonehank/simplify-anime) 
 ### August 20, 2019 
 - [BlameDeng/xue-react: ❄一套好用的 PC 端 React 组件库](https://github.com/BlameDeng/xue-react) 
 - [lxfriday/juejin-spider: 爬取掘金文章数据，查看在全站排行信息](https://github.com/lxfriday/juejin-spider) 
