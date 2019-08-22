@@ -20,6 +20,7 @@ contents which i picked from the internet
 - [Rob--W/crxviewer: Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.](https://github.com/Rob--W/crxviewer) 
 - [Dev Tips - Developer Tips by Umar Hansa](https://umaar.com/dev-tips/) 
 - [zhaoolee/StarsAndClown: ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~](https://github.com/zhaoolee/StarsAndClown) 
+- [huyaocode/mineClearance: 使用TypeScript，结合多个设计模式实现扫雷](https://github.com/huyaocode/mineClearance) 
 ### August 21, 2019 
 - [JenvyXU/keyboard-nav: 一个键盘导航，可以给每一个按键自定义网址。](https://github.com/JenvyXU/keyboard-nav) 
 - [Arman19941113/project-canvas: 预览链接](https://github.com/Arman19941113/project-canvas) 
