@@ -22,6 +22,7 @@ contents which i picked from the internet
 - [这些年掘金上的优质前端文章，篇篇经典，一次打包带走！ - 掘金](https://juejin.im/post/5d42f4f46fb9a06adb7fc2a1#h5o-19) 
 - [desandro/3dtransforms: Introduction to CSS 3D transforms](https://github.com/desandro/3dtransforms) 
 - [edent/Dynamic-SVG-Calendar-Icon: Here it is, an SVG calendar which always display's today's date.](https://github.com/edent/Dynamic-SVG-Calendar-Icon) 
+- [lucefer/bezier: 基于贝塞尔缓动函数的JS动画引擎](https://github.com/lucefer/bezier) 
 ### August 23, 2019 
 - [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) 
 ### August 22, 2019 
