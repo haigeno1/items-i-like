@@ -19,6 +19,9 @@ contents which i picked from the internet
 
 
 
+
+### August 28, 2019 
+- [ljianshu/Blog: 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者](https://github.com/ljianshu/Blog) 
 ### August 26, 2019 
 - [Advanced-Frontend/Daily-Interview-Question: 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。](https://github.com/Advanced-Frontend/Daily-Interview-Question) 
 - [壹题汇总 | 木易杨前端进阶](https://muyiy.vip/question/) 
