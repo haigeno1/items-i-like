@@ -21,6 +21,9 @@ contents which i picked from the internet
 
 
 
+
+### August 30, 2019 
+- [前端 100 问：能搞懂 80% 的请把简历给我 - 掘金](https://juejin.im/post/5d23e750f265da1b855c7bbe) 
 ### August 29, 2019 
 - [十大经典排序算法（动图演示） - 一像素 - 博客园](https://www.cnblogs.com/onepixel/p/7674659.html) 
 ### August 28, 2019 
