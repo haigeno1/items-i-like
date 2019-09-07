@@ -22,6 +22,9 @@ contents which i picked from the internet
 
 
 
+
+### September 7, 2019 
+- [HTTP/2: the Future of the Internet | Akamai](https://http2.akamai.com/demo) 
 ### August 30, 2019 
 - [前端 100 问：能搞懂 80% 的请把简历给我 - 掘金](https://juejin.im/post/5d23e750f265da1b855c7bbe) 
 ### August 29, 2019 
