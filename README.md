@@ -27,6 +27,7 @@ contents which i picked from the internet
 ### September 8, 2019 
 - [Advanced-Interview-Question/front-end-interview: A list of interview for front-end developer(前端开发者面试清单)](https://github.com/Advanced-Interview-Question/front-end-interview) 
 - [damonare/Sorts: The algorithm of sort.Personal site //damonare.cn](https://github.com/damonare/Sorts) 
+- [20道JS原理题助你面试一臂之力！ - 掘金](https://juejin.im/post/5d2ee123e51d4577614761f8) 
 ### September 7, 2019 
 - [HTTP/2: the Future of the Internet | Akamai](https://http2.akamai.com/demo) 
 ### August 30, 2019 
