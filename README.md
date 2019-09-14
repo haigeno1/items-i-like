@@ -30,6 +30,7 @@ contents which i picked from the internet
 - [AllThingsSmitty/css-protips: A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips) 
 - [l-hammer/You-need-to-know-css: 💄CSS tricks for web developers~](https://github.com/l-hammer/You-need-to-know-css) 
 - [qdlaoyao/css-gif: 一个动图，一个CSS知识点](https://github.com/qdlaoyao/css-gif) 
+- [521xueweihan/git-tips: Git的奇技淫巧](https://github.com/521xueweihan/git-tips) 
 ### September 8, 2019 
 - [Advanced-Interview-Question/front-end-interview: A list of interview for front-end developer(前端开发者面试清单)](https://github.com/Advanced-Interview-Question/front-end-interview) 
 - [damonare/Sorts: The algorithm of sort.Personal site //damonare.cn](https://github.com/damonare/Sorts) 
