@@ -32,6 +32,7 @@ contents which i picked from the internet
 - [qdlaoyao/css-gif: 一个动图，一个CSS知识点](https://github.com/qdlaoyao/css-gif) 
 - [521xueweihan/git-tips: Git的奇技淫巧](https://github.com/521xueweihan/git-tips) 
 - [chokcoco/iCSS: 不止于 CSS](https://github.com/chokcoco/iCSS) 
+- [chokcoco/CSS-Inspiration: CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration) 
 ### September 8, 2019 
 - [Advanced-Interview-Question/front-end-interview: A list of interview for front-end developer(前端开发者面试清单)](https://github.com/Advanced-Interview-Question/front-end-interview) 
 - [damonare/Sorts: The algorithm of sort.Personal site //damonare.cn](https://github.com/damonare/Sorts) 
