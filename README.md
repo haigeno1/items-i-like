@@ -28,6 +28,7 @@ contents which i picked from the internet
 ### September 14, 2019 
 - [sorrycc/awesome-f2e-libs: 🎉 整理我平时关注的前端库。](https://github.com/sorrycc/awesome-f2e-libs) 
 - [AllThingsSmitty/css-protips: A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips) 
+- [l-hammer/You-need-to-know-css: 💄CSS tricks for web developers~](https://github.com/l-hammer/You-need-to-know-css) 
 ### September 8, 2019 
 - [Advanced-Interview-Question/front-end-interview: A list of interview for front-end developer(前端开发者面试清单)](https://github.com/Advanced-Interview-Question/front-end-interview) 
 - [damonare/Sorts: The algorithm of sort.Personal site //damonare.cn](https://github.com/damonare/Sorts) 
