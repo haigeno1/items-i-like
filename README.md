@@ -25,6 +25,9 @@ contents which i picked from the internet
 
 
 
+
+### September 17, 2019 
+- [React lifecycle methods diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) 
 ### September 14, 2019 
 - [sorrycc/awesome-f2e-libs: 🎉 整理我平时关注的前端库。](https://github.com/sorrycc/awesome-f2e-libs) 
 - [AllThingsSmitty/css-protips: A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips) 
