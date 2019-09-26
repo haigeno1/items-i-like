@@ -26,6 +26,9 @@ contents which i picked from the internet
 
 
 
+
+### September 26, 2019 
+- [dashokkumar93/crx-download: Download CRX files as zip or directly.](https://github.com/dashokkumar93/crx-download) 
 ### September 17, 2019 
 - [React lifecycle methods diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) 
 ### September 14, 2019 
