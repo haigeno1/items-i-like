@@ -30,6 +30,7 @@ contents which i picked from the internet
 
 ### September 29, 2019 
 - [dwqs/v2-table: A simple table component based Vue 2.x: https://dwqs.github.io/v2-table/](https://github.com/dwqs/v2-table) 
+- [dwqs/vue-area-linkage: 省市区联动选择: https://dwqs.github.io/vue-area-linkage/](https://github.com/dwqs/vue-area-linkage) 
 ### September 26, 2019 
 - [dashokkumar93/crx-download: Download CRX files as zip or directly.](https://github.com/dashokkumar93/crx-download) 
 ### September 17, 2019 
