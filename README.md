@@ -28,6 +28,9 @@ contents which i picked from the internet
 
 
 
+
+### October 2, 2019 
+- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) 
 ### September 29, 2019 
 - [dwqs/v2-table: A simple table component based Vue 2.x: https://dwqs.github.io/v2-table/](https://github.com/dwqs/v2-table) 
 - [dwqs/vue-area-linkage: 省市区联动选择: https://dwqs.github.io/vue-area-linkage/](https://github.com/dwqs/vue-area-linkage) 
