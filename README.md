@@ -35,6 +35,7 @@ contents which i picked from the internet
 - [airuikun/minipack: minipack](https://github.com/airuikun/minipack) 
 - [airuikun/article_koa2: 简易koa2框架](https://github.com/airuikun/article_koa2) 
 - [sxei/vscode-plugin-demo: VSCode插件开发全攻略配套demo](https://github.com/sxei/vscode-plugin-demo) 
+- [iRuxu/notebook: Index of API , study notes.](https://github.com/iRuxu/notebook) 
 ### October 2, 2019 
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) 
 - [dwqs/v2-datepicker: A simple datepicker component based Vue 2.x: https://dwqs.github.io/v2-datepicker/](https://github.com/dwqs/v2-datepicker) 
