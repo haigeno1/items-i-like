@@ -29,6 +29,9 @@ contents which i picked from the internet
 
 
 
+
+### October 5, 2019 
+- [akiran/react-slick: React carousel component](https://github.com/akiran/react-slick) 
 ### October 2, 2019 
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) 
 - [dwqs/v2-datepicker: A simple datepicker component based Vue 2.x: https://dwqs.github.io/v2-datepicker/](https://github.com/dwqs/v2-datepicker) 
