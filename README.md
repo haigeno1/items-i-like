@@ -30,6 +30,9 @@ contents which i picked from the internet
 
 
 
+
+### October 6, 2019 
+- [ustbhuangyi/vue-analysis: Vue.js 源码分析](https://github.com/ustbhuangyi/vue-analysis) 
 ### October 5, 2019 
 - [akiran/react-slick: React carousel component](https://github.com/akiran/react-slick) 
 - [airuikun/minipack: minipack](https://github.com/airuikun/minipack) 
