@@ -36,6 +36,7 @@ contents which i picked from the internet
 - [QiShaoXuan/css_tricks: Some CSS tricks,一些 CSS 常用样式](https://github.com/QiShaoXuan/css_tricks) 
 - [l-hammer/You-need-to-know-css: 💄CSS tricks for web developers~](https://github.com/l-hammer/You-need-to-know-css) 
 - [flexbox演示站](https://xluos.github.io/demo/flexbox/) 
+- [30 Seconds of CSS 中文版，30秒 CSS 代码片段精选](http://caibaojian.com/30-seconds-of-css/) 
 ### October 6, 2019 
 - [ustbhuangyi/vue-analysis: Vue.js 源码分析](https://github.com/ustbhuangyi/vue-analysis) 
 ### October 5, 2019 
