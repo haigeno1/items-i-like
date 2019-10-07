@@ -31,6 +31,9 @@ contents which i picked from the internet
 
 
 
+
+### October 7, 2019 
+- [QiShaoXuan/css_tricks: Some CSS tricks,一些 CSS 常用样式](https://github.com/QiShaoXuan/css_tricks) 
 ### October 6, 2019 
 - [ustbhuangyi/vue-analysis: Vue.js 源码分析](https://github.com/ustbhuangyi/vue-analysis) 
 ### October 5, 2019 
