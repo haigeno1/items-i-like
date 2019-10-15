@@ -35,6 +35,7 @@ contents which i picked from the internet
 
 ### October 15, 2019 
 - [airuikun/article_koa2: 简易koa2框架](https://github.com/airuikun/article_koa2) 
+- [QiShaoXuan/dont-touch-white: 别踩白块 don`t touch white](https://github.com/QiShaoXuan/dont-touch-white) 
 ### October 7, 2019 
 - [QiShaoXuan/css_tricks: Some CSS tricks,一些 CSS 常用样式](https://github.com/QiShaoXuan/css_tricks) 
 - [l-hammer/You-need-to-know-css: 💄CSS tricks for web developers~](https://github.com/l-hammer/You-need-to-know-css) 
