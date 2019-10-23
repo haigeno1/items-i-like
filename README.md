@@ -37,6 +37,7 @@ contents which i picked from the internet
 ### October 23, 2019 
 - [JavaScript Standard Style](https://standardjs.com/readme-zhcn.html) 
 - [flyhigher139/Git-Cheat-Sheet: Git Cheat Sheet中文版, translated by Gevin (flyhigher139)](https://github.com/flyhigher139/Git-Cheat-Sheet/) 
+- [Amery2010/HEAD: 🗿这是一份与 <head> 部分相关的标签清单。](https://github.com/Amery2010/HEAD) 
 ### October 15, 2019 
 - [airuikun/article_koa2: 简易koa2框架](https://github.com/airuikun/article_koa2) 
 - [QiShaoXuan/dont-touch-white: 别踩白块 don`t touch white](https://github.com/QiShaoXuan/dont-touch-white) 
