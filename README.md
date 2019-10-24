@@ -38,6 +38,7 @@ contents which i picked from the internet
 ### October 24, 2019 
 - [commitizen/cz-cli: The commitizen command line utility.](https://github.com/commitizen/cz-cli) 
 - [JavaScript Standard Style](https://standardjs.com/readme-zhcn.html) 
+- [How-To-Ask-Questions-The-Smart-Way/README-zh_CN.md at master · FredWe/How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) 
 ### October 23, 2019 
 - [JavaScript Standard Style](https://standardjs.com/readme-zhcn.html) 
 - [flyhigher139/Git-Cheat-Sheet: Git Cheat Sheet中文版, translated by Gevin (flyhigher139)](https://github.com/flyhigher139/Git-Cheat-Sheet/) 
