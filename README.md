@@ -40,6 +40,7 @@ contents which i picked from the internet
 - [JavaScript Standard Style](https://standardjs.com/readme-zhcn.html) 
 - [How-To-Ask-Questions-The-Smart-Way/README-zh_CN.md at master · FredWe/How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) 
 - [CSS SANS 26 英文字母](https://yusugomori.com/projects/css-sans/fonts) 
+- [编码规范 by @mdo](https://codeguide.bootcss.com/) 
 ### October 23, 2019 
 - [JavaScript Standard Style](https://standardjs.com/readme-zhcn.html) 
 - [flyhigher139/Git-Cheat-Sheet: Git Cheat Sheet中文版, translated by Gevin (flyhigher139)](https://github.com/flyhigher139/Git-Cheat-Sheet/) 
