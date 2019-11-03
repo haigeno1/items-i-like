@@ -38,6 +38,7 @@ contents which i picked from the internet
 
 ### November 3, 2019 
 - [约定式提交](https://www.conventionalcommits.org/zh-cn/v1.0.0-beta.4/) 
+- [Solved by Flexbox — 更干净,无奇技淫巧的 CSS](https://magic-akari.github.io/solved-by-flexbox/) 
 ### October 24, 2019 
 - [commitizen/cz-cli: The commitizen command line utility.](https://github.com/commitizen/cz-cli) 
 - [JavaScript Standard Style](https://standardjs.com/readme-zhcn.html) 
