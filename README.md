@@ -35,6 +35,9 @@ contents which i picked from the internet
 
 
 
+
+### November 3, 2019 
+- [约定式提交](https://www.conventionalcommits.org/zh-cn/v1.0.0-beta.4/) 
 ### October 24, 2019 
 - [commitizen/cz-cli: The commitizen command line utility.](https://github.com/commitizen/cz-cli) 
 - [JavaScript Standard Style](https://standardjs.com/readme-zhcn.html) 
