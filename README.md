@@ -36,6 +36,9 @@ contents which i picked from the internet
 
 
 
+
+### November 11, 2019 
+- [概述 | Aotu.io - 前端代码规范](https://guide.aotu.io/docs/) 
 ### November 3, 2019 
 - [约定式提交](https://www.conventionalcommits.org/zh-cn/v1.0.0-beta.4/) 
 - [Solved by Flexbox — 更干净,无奇技淫巧的 CSS](https://magic-akari.github.io/solved-by-flexbox/) 
