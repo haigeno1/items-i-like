@@ -37,6 +37,9 @@ contents which i picked from the internet
 
 
 
+
+### November 12, 2019 
+- [jayphelps/core-decorators: Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.](https://github.com/jayphelps/core-decorators) 
 ### November 11, 2019 
 - [概述 | Aotu.io - 前端代码规范](https://guide.aotu.io/docs/) 
 ### November 3, 2019 
