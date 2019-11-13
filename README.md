@@ -38,6 +38,9 @@ contents which i picked from the internet
 
 
 
+
+### November 13, 2019 
+- [youngwind/fake-webpack: 模仿webpack写一个打包工具](https://github.com/youngwind/fake-webpack) 
 ### November 12, 2019 
 - [jayphelps/core-decorators: Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.](https://github.com/jayphelps/core-decorators) 
 ### November 11, 2019 
