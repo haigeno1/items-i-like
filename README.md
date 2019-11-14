@@ -39,6 +39,9 @@ contents which i picked from the internet
 
 
 
+
+### November 14, 2019 
+- [学习CSS布局](http://zh.learnlayout.com/toc.html) 
 ### November 13, 2019 
 - [youngwind/fake-webpack: 模仿webpack写一个打包工具](https://github.com/youngwind/fake-webpack) 
 ### November 12, 2019 
