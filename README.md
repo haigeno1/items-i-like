@@ -40,6 +40,9 @@ contents which i picked from the internet
 
 
 
+
+### November 19, 2019 
+- [the-art-of-command-line/README-zh.md at master · jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) 
 ### November 14, 2019 
 - [学习CSS布局](http://zh.learnlayout.com/toc.html) 
 ### November 13, 2019 
