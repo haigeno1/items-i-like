@@ -45,6 +45,7 @@ contents which i picked from the internet
 - [the-art-of-command-line/README-zh.md at master · jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) 
 - [起步 | webpack 中文网](https://www.webpackjs.com/guides/getting-started/) 
 - [vue-cli/README.md at ce3e2d475d63895cbb40f62425bb6b3237469bcd · vuejs/vue-cli](https://github.com/vuejs/vue-cli/blob/ce3e2d475d63895cbb40f62425bb6b3237469bcd/docs/zh/config/README.md) 
+- [介绍 | fe-dev-playbook](http://fe.surge.sh/guide/) 
 ### November 14, 2019 
 - [学习CSS布局](http://zh.learnlayout.com/toc.html) 
 ### November 13, 2019 
