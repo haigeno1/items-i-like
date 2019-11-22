@@ -44,6 +44,7 @@ contents which i picked from the internet
 
 ### November 22, 2019 
 - [2019年度最受欢迎中国开源软件评选 - 开源中国社区](https://www.oschina.net/project/top_cn_2019?sort=1) 
+- [timqian/chinese-independent-blogs: 中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) 
 ### November 19, 2019 
 - [the-art-of-command-line/README-zh.md at master · jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) 
 - [起步 | webpack 中文网](https://www.webpackjs.com/guides/getting-started/) 
