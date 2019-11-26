@@ -47,6 +47,7 @@ contents which i picked from the internet
 ### November 26, 2019 
 - [521xueweihan/git-tips: Git的奇技淫巧](https://github.com/521xueweihan/git-tips) 
 - [GitHub Git 备忘单 - GitHub Cheatsheets](https://github.github.com/training-kit/downloads/zh_CN/github-git-cheat-sheet/) 
+- [shfshanyue/fp-jargon-zh: 函数式编程术语及示例。本项目译自 https://github.com/hemanth/functional-programming-jargon](https://github.com/shfshanyue/fp-jargon-zh) 
 ### November 25, 2019 
 - [em demo](http://yanhaijing.com/rem/demo.html) 
 ### November 22, 2019 
