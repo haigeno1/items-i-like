@@ -43,6 +43,9 @@ contents which i picked from the internet
 
 
 
+
+### November 26, 2019 
+- [521xueweihan/git-tips: Git的奇技淫巧](https://github.com/521xueweihan/git-tips) 
 ### November 25, 2019 
 - [em demo](http://yanhaijing.com/rem/demo.html) 
 ### November 22, 2019 
