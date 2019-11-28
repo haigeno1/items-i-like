@@ -44,6 +44,9 @@ contents which i picked from the internet
 
 
 
+
+### November 28, 2019 
+- [hemanth/paws-on-es6: Minimalist examples of ES6 functionalities.](https://github.com/hemanth/paws-on-es6) 
 ### November 26, 2019 
 - [521xueweihan/git-tips: Git的奇技淫巧](https://github.com/521xueweihan/git-tips) 
 - [GitHub Git 备忘单 - GitHub Cheatsheets](https://github.github.com/training-kit/downloads/zh_CN/github-git-cheat-sheet/) 
