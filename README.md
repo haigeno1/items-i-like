@@ -52,6 +52,7 @@ contents which i picked from the internet
 - [Node.js Interview](https://elemefe.github.io/node-interview/#/sections/zh-cn/?id=%e5%af%bc%e8%af%bb) 
 - [xinyu198736/s-mobx: 轻量级mobx实现，仅供参考](https://github.com/xinyu198736/s-mobx) 
 - [zerosoul/rc-bullets: 🌈基于CSS3动画，使用React构建的弹幕组件](https://github.com/zerosoul/rc-bullets) 
+- [lin-123/javascript: eslint-config-airbnb 翻译版 https://lin-123.github.io/javascript/](https://github.com/lin-123/javascript) 
 ### December 4, 2019 
 - [useEffect 完整指南 — Overreacted](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/) 
 ### November 29, 2019 
