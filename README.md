@@ -52,6 +52,7 @@ contents which i picked from the internet
 
 ### December 12, 2019 
 - [xunleif2e/vue-modal: Vue 2.x 模态框组件](https://github.com/xunleif2e/vue-modal) 
+- [tastejs/todomvc: Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more](https://github.com/tastejs/todomvc) 
 ### December 11, 2019 
 - [ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) 
 - [ltaoo/vue-draggable-tree: 🌲 可拖拽树](https://github.com/ltaoo/vue-draggable-tree) 
