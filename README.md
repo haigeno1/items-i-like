@@ -53,6 +53,7 @@ contents which i picked from the internet
 
 ### December 13, 2019 
 - [Code Guide by @AlloyTeam-materliu](http://materliu.github.io/code-guide/) 
+- [速查表 — 开发者速查表 cheatsheets](http://devhints.cn/) 
 ### December 12, 2019 
 - [xunleif2e/vue-modal: Vue 2.x 模态框组件](https://github.com/xunleif2e/vue-modal) 
 - [tastejs/todomvc: Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more](https://github.com/tastejs/todomvc) 
