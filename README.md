@@ -54,6 +54,7 @@ contents which i picked from the internet
 
 ### December 15, 2019 
 - [unstated-next/README-zh-cn.md at master · jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next/blob/master/README-zh-cn.md) 
+- [How to lose weight (in the browser)](https://browserdiet.com/zh/) 
 ### December 13, 2019 
 - [Code Guide by @AlloyTeam-materliu](http://materliu.github.io/code-guide/) 
 - [速查表 — 开发者速查表 cheatsheets](http://devhints.cn/) 
