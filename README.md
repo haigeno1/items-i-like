@@ -57,6 +57,7 @@ contents which i picked from the internet
 - [How to lose weight (in the browser)](https://browserdiet.com/zh/) 
 - [you-dont-need/You-Dont-Need-Lodash-Underscore: List of JavaScript methods which you can use natively + ESLint Plugin](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) 
 - [learn-regex/README-cn.md at master · ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) 
+- [bvaughn/react-devtools-tutorial: Interactive tutorial featuring the React DevTools v4](https://github.com/bvaughn/react-devtools-tutorial) 
 ### December 13, 2019 
 - [Code Guide by @AlloyTeam-materliu](http://materliu.github.io/code-guide/) 
 - [速查表 — 开发者速查表 cheatsheets](http://devhints.cn/) 
