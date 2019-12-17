@@ -58,6 +58,7 @@ contents which i picked from the internet
 - [Create Content Loader](https://danilowoz.com/create-vue-content-loader/) 
 - [diegoddox/react-redux-modal](https://github.com/diegoddox/react-redux-modal) 
 - [CSS Reference - A free visual guide to CSS](https://cssreference.io/) 
+- [bevacqua/promisees: Promise visualization playground for the adventurous](https://github.com/bevacqua/promisees) 
 ### December 15, 2019 
 - [unstated-next/README-zh-cn.md at master · jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next/blob/master/README-zh-cn.md) 
 - [How to lose weight (in the browser)](https://browserdiet.com/zh/) 
