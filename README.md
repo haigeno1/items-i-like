@@ -53,6 +53,9 @@ contents which i picked from the internet
 
 
 
+
+### December 18, 2019 
+- [accforgit/AutoScssStruct4Vue: vscode 扩展插件，用于根据vue template结构自动生成 scss文件](https://github.com/accforgit/AutoScssStruct4Vue) 
 ### December 17, 2019 
 - [danilowoz/my-styled-component: 💅 My own implementation of styled-components within 100 lines of code.](https://github.com/danilowoz/my-styled-component) 
 - [Create Content Loader](https://danilowoz.com/create-vue-content-loader/) 
