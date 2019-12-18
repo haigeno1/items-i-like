@@ -60,6 +60,7 @@ contents which i picked from the internet
 - [flukeout/PolyPal: ▲◼A web-based SVG editor for low-poly style illustrations.](https://github.com/flukeout/PolyPal) 
 - [wentin/font-playground: A fun place to play with variable fonts.](https://github.com/wentin/font-playground) 
 - [AllThingsSmitty/css-protips: A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips) 
+- [Code Guide by @mdo](https://codeguide.co/) 
 ### December 17, 2019 
 - [danilowoz/my-styled-component: 💅 My own implementation of styled-components within 100 lines of code.](https://github.com/danilowoz/my-styled-component) 
 - [Create Content Loader](https://danilowoz.com/create-vue-content-loader/) 
