@@ -58,6 +58,7 @@ contents which i picked from the internet
 - [accforgit/AutoScssStruct4Vue: vscode 扩展插件，用于根据vue template结构自动生成 scss文件](https://github.com/accforgit/AutoScssStruct4Vue) 
 - [l-hammer/v-track: 🕹A manual tracking plugin based on Vue directive / 一个基于Vue指令实现的埋点插件~](https://github.com/l-hammer/v-track) 
 - [flukeout/PolyPal: ▲◼A web-based SVG editor for low-poly style illustrations.](https://github.com/flukeout/PolyPal) 
+- [wentin/font-playground: A fun place to play with variable fonts.](https://github.com/wentin/font-playground) 
 ### December 17, 2019 
 - [danilowoz/my-styled-component: 💅 My own implementation of styled-components within 100 lines of code.](https://github.com/danilowoz/my-styled-component) 
 - [Create Content Loader](https://danilowoz.com/create-vue-content-loader/) 
