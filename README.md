@@ -54,6 +54,9 @@ contents which i picked from the internet
 
 
 
+
+### December 19, 2019 
+- [bxm0927/canvas-special: :star2:超多经典 canvas 实例，动态离子背景、移动炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等等等](https://github.com/bxm0927/canvas-special) 
 ### December 18, 2019 
 - [accforgit/AutoScssStruct4Vue: vscode 扩展插件，用于根据vue template结构自动生成 scss文件](https://github.com/accforgit/AutoScssStruct4Vue) 
 - [l-hammer/v-track: 🕹A manual tracking plugin based on Vue directive / 一个基于Vue指令实现的埋点插件~](https://github.com/l-hammer/v-track) 
