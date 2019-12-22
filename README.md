@@ -59,6 +59,7 @@ contents which i picked from the internet
 ### December 22, 2019 
 - [zoltan-dulac/aria-role-demos: A list of demos to show how aria roles function with screen readers.](https://github.com/zoltan-dulac/aria-role-demos) 
 - [Louiszhai/canvas-draw: 使用canvas手写签名或绘图--支持pc和mobile端、支持横屏](https://github.com/Louiszhai/canvas-draw) 
+- [Ma63d/leetcode-spider: 用 node.js 爬你自己的 leetcode 解题源码](https://github.com/Ma63d/leetcode-spider) 
 ### December 19, 2019 
 - [bxm0927/canvas-special: :star2:超多经典 canvas 实例，动态离子背景、移动炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等等等](https://github.com/bxm0927/canvas-special) 
 ### December 18, 2019 
