@@ -61,6 +61,7 @@ contents which i picked from the internet
 ### January 6, 2020 
 - [nicejade/awesome-vue-cli3-example: 🦅 Awesome example for rapid Vue.js development using vue-cli3 .](https://github.com/nicejade/awesome-vue-cli3-example) 
 - [Vanessa219/30-seconds-zh_CN: 📙 前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。](https://github.com/Vanessa219/30-seconds-zh_CN/) 
+- [pshihn/proxly: Easiest way to proxy a list of objects/functions in Javascript](https://github.com/pshihn/proxly) 
 ### January 3, 2020 
 - [taokexia/tiny-JS-compiler: 简单的 JS 编译器](https://github.com/taokexia/tiny-JS-compiler) 
 - [posva/clipboard-text: Simple and small copy-text-to-the-clipboard-utility with IE11 support](https://github.com/posva/clipboard-text) 
