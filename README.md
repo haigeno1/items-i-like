@@ -57,6 +57,9 @@ contents which i picked from the internet
 
 
 
+
+### January 6, 2020 
+- [nicejade/awesome-vue-cli3-example: 🦅 Awesome example for rapid Vue.js development using vue-cli3 .](https://github.com/nicejade/awesome-vue-cli3-example) 
 ### January 3, 2020 
 - [taokexia/tiny-JS-compiler: 简单的 JS 编译器](https://github.com/taokexia/tiny-JS-compiler) 
 - [posva/clipboard-text: Simple and small copy-text-to-the-clipboard-utility with IE11 support](https://github.com/posva/clipboard-text) 
