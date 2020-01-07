@@ -58,6 +58,9 @@ contents which i picked from the internet
 
 
 
+
+### January 7, 2020 
+- [Tencent/Face2FaceTranslator: 面对面翻译小程序是微信团队针对面对面沟通的场景开发的流式语音翻译小程序，通过微信同声传译插件提供了语音识别，文本翻译等功能。](https://github.com/Tencent/Face2FaceTranslator) 
 ### January 6, 2020 
 - [nicejade/awesome-vue-cli3-example: 🦅 Awesome example for rapid Vue.js development using vue-cli3 .](https://github.com/nicejade/awesome-vue-cli3-example) 
 - [Vanessa219/30-seconds-zh_CN: 📙 前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。](https://github.com/Vanessa219/30-seconds-zh_CN/) 
