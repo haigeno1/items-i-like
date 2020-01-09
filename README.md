@@ -62,6 +62,7 @@ contents which i picked from the internet
 
 ### January 9, 2020 
 - [Swiper Demos](https://swiperjs.com/demos/) 
+- [dragula - Browser drag-and-drop so simple it hurts](https://bevacqua.github.io/dragula/) 
 ### January 7, 2020 
 - [Tencent/Face2FaceTranslator: 面对面翻译小程序是微信团队针对面对面沟通的场景开发的流式语音翻译小程序，通过微信同声传译插件提供了语音识别，文本翻译等功能。](https://github.com/Tencent/Face2FaceTranslator) 
 ### January 6, 2020 
