@@ -60,6 +60,9 @@ contents which i picked from the internet
 
 
 
+
+### January 10, 2020 
+- [tinycolor.js](https://bgrins.github.io/TinyColor/docs/tinycolor.html) 
 ### January 9, 2020 
 - [Swiper Demos](https://swiperjs.com/demos/) 
 - [dragula - Browser drag-and-drop so simple it hurts](https://bevacqua.github.io/dragula/) 
