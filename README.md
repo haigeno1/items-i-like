@@ -67,6 +67,7 @@ contents which i picked from the internet
 
 ### February 15, 2020 
 - [HaoChuan9421/seamless-scroll: 一款媲美原生 App 体验的“无缝滚动”插件(📦< 3KB)](https://github.com/HaoChuan9421/seamless-scroll) 
+- [JerryC8080/super-cache: 💾 一个跨 JS 平台的缓存库，支持缓存逻辑代理，支持自定义数据存储](https://github.com/JerryC8080/super-cache) 
 ### February 9, 2020 
 - [BootCDN - Bootstrap 中文网开源项目免费 CDN 加速服务](https://www.bootcdn.cn/all/) 
 - [Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API) 
