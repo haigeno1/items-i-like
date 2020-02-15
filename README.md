@@ -64,6 +64,9 @@ contents which i picked from the internet
 
 
 
+
+### February 15, 2020 
+- [HaoChuan9421/seamless-scroll: 一款媲美原生 App 体验的“无缝滚动”插件(📦< 3KB)](https://github.com/HaoChuan9421/seamless-scroll) 
 ### February 9, 2020 
 - [BootCDN - Bootstrap 中文网开源项目免费 CDN 加速服务](https://www.bootcdn.cn/all/) 
 - [Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API) 
