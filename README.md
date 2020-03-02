@@ -67,6 +67,9 @@ contents which i picked from the internet
 
 
 
+
+### March 2, 2020 
+- [scottcgi/MojoJS-Animation: A lightweight and powerful javascript Animation engine.](https://github.com/scottcgi/MojoJS-Animation) 
 ### February 24, 2020 
 - [maxkueng/wyt: A time-based rate limiter that uses promises.](https://github.com/maxkueng/wyt) 
 - [Web Incubator Community Group (WICG)](https://wicg.io/) 
