@@ -70,6 +70,7 @@ contents which i picked from the internet
 
 ### March 2, 2020 
 - [scottcgi/MojoJS-Animation: A lightweight and powerful javascript Animation engine.](https://github.com/scottcgi/MojoJS-Animation) 
+- [prevwong/drooltip.js: 🔥 💦 Minimalistic, powerful and extensible Vanilla JS tooltip library](https://github.com/prevwong/drooltip.js) 
 ### February 24, 2020 
 - [maxkueng/wyt: A time-based rate limiter that uses promises.](https://github.com/maxkueng/wyt) 
 - [Web Incubator Community Group (WICG)](https://wicg.io/) 
