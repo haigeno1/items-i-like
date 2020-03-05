@@ -68,6 +68,9 @@ contents which i picked from the internet
 
 
 
+
+### March 5, 2020 
+- [How-To-Ask-Questions-The-Smart-Way/README-zh_CN.md at master · ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) 
 ### March 2, 2020 
 - [scottcgi/MojoJS-Animation: A lightweight and powerful javascript Animation engine.](https://github.com/scottcgi/MojoJS-Animation) 
 - [prevwong/drooltip.js: 🔥 💦 Minimalistic, powerful and extensible Vanilla JS tooltip library](https://github.com/prevwong/drooltip.js) 
