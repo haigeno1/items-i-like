@@ -71,6 +71,9 @@ contents which i picked from the internet
 
 
 
+
+### March 13, 2020 
+- [evanw/float-toy: Use this to build intuition for the IEEE floating-point format](https://github.com/evanw/float-toy) 
 ### March 10, 2020 
 - [-online-keyboard](https://hediet.github.io/visual-keyboard/?mechanicalLayout=ANSI&functionalLayout=US) 
 - [popperjs/popper-core: 🍿Positioning tooltips and popovers is difficult. Popper is here to help!](https://github.com/popperjs/popper-core) 
