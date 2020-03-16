@@ -77,6 +77,7 @@ contents which i picked from the internet
 - [Arya - 在线 Markdown 编辑器](https://markdown.lovejade.cn/?utm_source=github.com) 
 - [「万字整理 」这里有一份Node.js入门指南和实践,请注意查收 ❤️ - 掘金](https://juejin.im/post/5e0006c251882512795675f9#3) 
 - [jwenjian/ghiblog: GitHub Issues Blog, powered by GitHub Issues and GitHub Actions](https://github.com/jwenjian/ghiblog) 
+- [fangzesheng/free-api: 收集免费的接口服务,做一个api的搬运工](https://github.com/fangzesheng/free-api) 
 ### March 13, 2020 
 - [evanw/float-toy: Use this to build intuition for the IEEE floating-point format](https://github.com/evanw/float-toy) 
 ### March 10, 2020 
