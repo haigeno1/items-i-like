@@ -75,6 +75,7 @@ contents which i picked from the internet
 
 ### March 16, 2020 
 - [Arya - 在线 Markdown 编辑器](https://markdown.lovejade.cn/?utm_source=github.com) 
+- [「万字整理 」这里有一份Node.js入门指南和实践,请注意查收 ❤️ - 掘金](https://juejin.im/post/5e0006c251882512795675f9#3) 
 ### March 13, 2020 
 - [evanw/float-toy: Use this to build intuition for the IEEE floating-point format](https://github.com/evanw/float-toy) 
 ### March 10, 2020 
