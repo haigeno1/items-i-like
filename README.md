@@ -75,6 +75,9 @@ contents which i picked from the internet
 
 
 
+
+### March 22, 2020 
+- [kamranahmedse/design-patterns-for-humans: An ultra-simplified explanation to design patterns](https://github.com/kamranahmedse/design-patterns-for-humans) 
 ### March 20, 2020 
 - [zloirock/core-js: Standard Library](https://github.com/zloirock/core-js) 
 - [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/) 
