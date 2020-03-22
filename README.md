@@ -79,6 +79,7 @@ contents which i picked from the internet
 ### March 22, 2020 
 - [kamranahmedse/design-patterns-for-humans: An ultra-simplified explanation to design patterns](https://github.com/kamranahmedse/design-patterns-for-humans) 
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap) 
+- [hateonion/react-bits-CN: ✨ React patterns, techniques, tips and tricks ✨ 中文版的https://github.com/vasanthk/react-bits](https://github.com/hateonion/react-bits-CN) 
 ### March 20, 2020 
 - [zloirock/core-js: Standard Library](https://github.com/zloirock/core-js) 
 - [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/) 
