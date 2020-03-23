@@ -76,6 +76,9 @@ contents which i picked from the internet
 
 
 
+
+### March 23, 2020 
+- [clauderic/react-sortable-hoc: A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️](https://github.com/clauderic/react-sortable-hoc) 
 ### March 22, 2020 
 - [kamranahmedse/design-patterns-for-humans: An ultra-simplified explanation to design patterns](https://github.com/kamranahmedse/design-patterns-for-humans) 
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap) 
