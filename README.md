@@ -77,6 +77,9 @@ contents which i picked from the internet
 
 
 
+
+### March 24, 2020 
+- [bendc/frontend-guidelines: Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines) 
 ### March 23, 2020 
 - [clauderic/react-sortable-hoc: A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️](https://github.com/clauderic/react-sortable-hoc) 
 - [clauderic/react-tiny-virtual-list: A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!](https://github.com/clauderic/react-tiny-virtual-list) 
