@@ -83,6 +83,7 @@ contents which i picked from the internet
 - [/uses](https://uses.tech/) 
 - [React Cheat Sheet](https://reactcheatsheet.com/) 
 - [Docs - Licia: Useful Utility Collection with Zero Dependencies:)](https://licia.liriliri.io/docs.html) 
+- [sindresorhus/promise-fun: Promise packages, patterns, chat, and tutorials](https://github.com/sindresorhus/promise-fun) 
 ### March 23, 2020 
 - [clauderic/react-sortable-hoc: A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️](https://github.com/clauderic/react-sortable-hoc) 
 - [clauderic/react-tiny-virtual-list: A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!](https://github.com/clauderic/react-tiny-virtual-list) 
