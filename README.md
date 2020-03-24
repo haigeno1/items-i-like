@@ -82,6 +82,7 @@ contents which i picked from the internet
 - [bendc/frontend-guidelines: Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines) 
 - [/uses](https://uses.tech/) 
 - [React Cheat Sheet](https://reactcheatsheet.com/) 
+- [Docs - Licia: Useful Utility Collection with Zero Dependencies:)](https://licia.liriliri.io/docs.html) 
 ### March 23, 2020 
 - [clauderic/react-sortable-hoc: A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️](https://github.com/clauderic/react-sortable-hoc) 
 - [clauderic/react-tiny-virtual-list: A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!](https://github.com/clauderic/react-tiny-virtual-list) 
