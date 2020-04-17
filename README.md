@@ -80,6 +80,9 @@ contents which i picked from the internet
 
 
 
+
+### April 17, 2020 
+- [samanthaming/not-fancy-canvas-drawing: A simple, not fancy at all, HTML5 canvas drawing built in Vue](https://github.com/samanthaming/not-fancy-canvas-drawing) 
 ### April 7, 2020 
 - [gto76/python-cheatsheet: Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet) 
 ### March 28, 2020 
