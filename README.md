@@ -86,6 +86,7 @@ contents which i picked from the internet
 - [awesome-css-group/awesome-css: A curated contents of amazing CSS :)](https://github.com/awesome-css-group/awesome-css) 
 - [bansal-io/pattern.css: CSS only library to fill empty background with beautiful patterns.](https://github.com/bansal-io/pattern.css) 
 - [Hero Patterns | Free repeatable SVG background patterns for your web projects](http://www.heropatterns.com/) 
+- [lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions) 
 ### April 17, 2020 
 - [samanthaming/not-fancy-canvas-drawing: A simple, not fancy at all, HTML5 canvas drawing built in Vue](https://github.com/samanthaming/not-fancy-canvas-drawing) 
 ### April 7, 2020 
