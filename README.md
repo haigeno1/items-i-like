@@ -81,6 +81,9 @@ contents which i picked from the internet
 
 
 
+
+### April 24, 2020 
+- [awesome-css-group/awesome-css: A curated contents of amazing CSS :)](https://github.com/awesome-css-group/awesome-css) 
 ### April 17, 2020 
 - [samanthaming/not-fancy-canvas-drawing: A simple, not fancy at all, HTML5 canvas drawing built in Vue](https://github.com/samanthaming/not-fancy-canvas-drawing) 
 ### April 7, 2020 
