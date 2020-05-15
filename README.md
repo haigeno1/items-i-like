@@ -83,6 +83,9 @@ contents which i picked from the internet
 
 
 
+
+### May 15, 2020 
+- [xaksis/vue-good-table: An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc](https://github.com/xaksis/vue-good-table) 
 ### May 14, 2020 
 - [youngwind/fake-webpack: 模仿webpack写一个打包工具](https://github.com/youngwind/fake-webpack) 
 ### April 24, 2020 
