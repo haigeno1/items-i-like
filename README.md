@@ -89,6 +89,7 @@ contents which i picked from the internet
 
 ### May 28, 2020 
 - [How-To-Ask-Questions-The-Smart-Way/README-zh_CN.md at master · ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) 
+- [HTTP状态码详解](https://tool.oschina.net/commons?type=5) 
 ### May 25, 2020 
 - [如何维护更新日志](https://keepachangelog.com/zh-CN/1.0.0/) 
 - [the-art-of-command-line/README-zh.md at master · jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) 
