@@ -92,6 +92,7 @@ contents which i picked from the internet
 ### June 4, 2020 
 - [airbnb/javascript: JavaScript Style Guide](https://github.com/airbnb/javascript) 
 - [TheAlgorithms/Java: All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java) 
+- [TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)](https://github.com/TheAlgorithms/Javascript) 
 ### June 1, 2020 
 - [List of available rules - ESLint中文](http://eslint.cn/docs/rules/) 
 ### May 28, 2020 
