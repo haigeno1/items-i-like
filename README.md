@@ -89,6 +89,9 @@ contents which i picked from the internet
 
 
 
+
+### July 4, 2020 
+- [guanpengchn/awesome-books: 开发者推荐阅读的书籍](https://github.com/guanpengchn/awesome-books) 
 ### June 4, 2020 
 - [airbnb/javascript: JavaScript Style Guide](https://github.com/airbnb/javascript) 
 - [TheAlgorithms/Java: All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java) 
