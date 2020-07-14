@@ -95,6 +95,7 @@ contents which i picked from the internet
 ### July 14, 2020 
 - [全栈公开课2020](https://fullstackopen.com/zh/) 
 - [Regular Expressions for Regular Folk | Regular Expressions for Regular Folk (REFRF)](https://refrf.shreyasminocha.me/) 
+- [kon9chunkit/GitHub-Chinese-Top-Charts: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) 
 ### July 12, 2020 
 - [sudheerj/reactjs-interview-questions: List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!](https://github.com/sudheerj/reactjs-interview-questions) 
 ### July 4, 2020 
