@@ -96,6 +96,7 @@ contents which i picked from the internet
 
 ### July 17, 2020 
 - [HTML5 Security Cheatsheet](https://html5sec.org/) 
+- [https://cheatsheetseries.owasp.org/](https://cheatsheetseries.owasp.org/) 
 ### July 16, 2020 
 - [haizlin/fe-interview: 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……](https://github.com/haizlin/fe-interview) 
 - [sxei/vscode-plugin-demo: VSCode插件开发全攻略配套demo](https://github.com/sxei/vscode-plugin-demo) 
