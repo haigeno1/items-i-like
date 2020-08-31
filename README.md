@@ -98,6 +98,7 @@ contents which i picked from the internet
 
 ### August 31, 2020 
 - [How-To-Ask-Questions-The-Smart-Way/README-zh_CN.md at master · ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) 
+- [wsdjeg/vim-galore-zh_cn: Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn) 
 ### July 28, 2020 
 - [sudheerj/vuejs-interview-questions: List of 300 VueJS Interview Questions And Answers](https://github.com/sudheerj/vuejs-interview-questions) 
 ### July 17, 2020 
