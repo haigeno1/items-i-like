@@ -98,6 +98,9 @@ contents which i picked from the internet
 
 
 
+
+### October 28, 2020 
+- [Basics by xgfe](https://xgfe.github.io/Basics/) 
 ### October 21, 2020 
 - [jkchao/typescript-book-chinese: TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese) 
 - [semlinker/awesome-http: HTTP、HTTP Cache、CORS、HTTPS、HTTP/2、Fiddler、WireShark、Web Crawler](https://github.com/semlinker/awesome-http) 
