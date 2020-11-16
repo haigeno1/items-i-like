@@ -99,6 +99,9 @@ contents which i picked from the internet
 
 
 
+
+### November 16, 2020 
+- [GitHub - eamodio/vscode-gitlens: Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more](https://github.com/eamodio/vscode-gitlens) 
 ### October 28, 2020 
 - [Basics by xgfe](https://xgfe.github.io/Basics/) 
 ### October 21, 2020 
