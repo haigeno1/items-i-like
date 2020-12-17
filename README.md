@@ -108,6 +108,7 @@ contents which i picked from the internet
 
 ### December 17, 2020 
 - [Personal Kanban - Offline Personal Kanban Board](https://personalkanban.js.org/) 
+- [MustangYM/WeChatExtension-ForMac: Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)](https://github.com/MustangYM/WeChatExtension-ForMac) 
 ### December 14, 2020 
 - [协议列表 · GitBook](http://wproxy.org/whistle/rules/) 
 ### December 9, 2020 
