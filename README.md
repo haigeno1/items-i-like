@@ -109,6 +109,7 @@ contents which i picked from the internet
 
 ### December 18, 2020 
 - [zhaoolee/ChromeAppHeroes: 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新](https://github.com/zhaoolee/ChromeAppHeroes) 
+- [hzlzh/Best-App: 收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) 
 ### December 17, 2020 
 - [Personal Kanban - Offline Personal Kanban Board](https://personalkanban.js.org/) 
 - [MustangYM/WeChatExtension-ForMac: Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)](https://github.com/MustangYM/WeChatExtension-ForMac) 
