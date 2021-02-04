@@ -109,6 +109,9 @@ contents which i picked from the internet
 
 
 
+
+### February 4, 2021 
+- [Lodash 工具库笔记 | Mr.Mao's blog](http://tuimao233.gitee.io/mao-blog/notes/frontend/07.Lodash.html#lodash-%E7%AE%80%E4%BB%8B) 
 ### December 26, 2020 
 - [Shadow Editor](http://tengge1.gitee.io/shadoweditor-examples/) 
 ### December 24, 2020 
